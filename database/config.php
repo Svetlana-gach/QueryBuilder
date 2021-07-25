@@ -1,5 +1,6 @@
 <?php
 
+//здесь можно настроить соединение под свою базу
 return [
 	"database"	=>	[
 		"database"	=> "new_base",
